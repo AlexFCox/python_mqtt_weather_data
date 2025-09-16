@@ -22,9 +22,6 @@
 			}
 		}
     },
-    "features": {
-        "ghcr.io/devcontainers/features/docker-in-docker:2": {}
-    },
     "forwardPorts": [1883, 8883],
     "portsAttributes": {
         "1883": {
